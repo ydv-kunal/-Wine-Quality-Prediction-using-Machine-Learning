@@ -8,18 +8,17 @@ The goal is to classify wines into Good (quality ≥ 7) and Not Good (quality < 
 
 Source: [UCI Wine Quality Dataset From Kaggle] (https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009-Link)
 
-Features:
-Fixed acidity
-Volatile acidity
-Citric acid
-Residual sugar
-Chlorides
-Free sulfur dioxide
-Total sulfur dioxide
-Density
-pH
-Sulphates
-Alcohol
-Target:
+Features:  
+Fixed acidity  
+Volatile acidity   
+Citric acid   
+Residual sugar   
+Chlorides   
+Free sulfur dioxide   
+Total sulfur dioxide   
+Density   
+pH   
+Sulphates   
+Alcohol   
 
-Wine quality (converted into binary: Good (≥7), Not Good (<7)).
+Target: Wine quality (converted into binary: Good (≥7), Not Good (<7)).
