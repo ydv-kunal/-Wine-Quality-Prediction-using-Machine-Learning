@@ -9,7 +9,7 @@ The goal is to classify wines into Good (quality ≥ 7) and Not Good (quality < 
 
 ##Dataset     
 
-Source: [UCI Wine Quality Dataset From Kaggle] (https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009-Link)     
+Source: [UCI Wine Quality Dataset From Kaggle] (https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)     
 
 Features:     
 Fixed acidity      
